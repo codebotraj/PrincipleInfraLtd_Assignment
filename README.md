@@ -1,8 +1,8 @@
-#Instructions
+# Instructions
 Follow these steps to run the application locally:
 
 Clone the Repository: Start by cloning this repository to your local machine. You can do this by opening your terminal and entering the following command:
-https://github.com/codebotraj/PrincipleInfraLtd_Assignment.git
+git clone https://github.com/codebotraj/PrincipleInfraLtd_Assignment.git
 
 Navigate to the Project Directory: Change your working directory to the cloned repository:
 cd PrincipleInfraLtd_Assignment
